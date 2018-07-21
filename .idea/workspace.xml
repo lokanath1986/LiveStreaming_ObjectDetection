@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8b99579-66fa-40e5-9a4e-8d639285e6ef" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Object-detection_Live.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobileNetSSD_deploy.caffemodel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobileNetSSD_deploy.prototxt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/real_time_object_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_time_object_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/real_time_object_detection.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +16,8 @@
       <file leaf-file-name="real_time_object_detection.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/real_time_object_detection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="255">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -150,8 +143,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/real_time_object_detection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="255">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,13 @@
 # USAGE
 # python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
 
+"""
+#-----------------------------------------------------------------------
+Live Streaming Object detection
+Created on July 12 2017 10:10:30 PM
+@Author : Loknath Baral
+#-------------------------------------------------------------------------
+"""
 # import the necessary packages
 from imutils.video import VideoStream
 from imutils.video import FPS
